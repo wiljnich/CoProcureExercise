@@ -1,2 +1,2 @@
 # CoProcureExercise
-Exercise for CoProcure Technical Internship Applicatiom
+Exercise for CoProcure Technical Internship Application
