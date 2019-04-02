@@ -1,7 +1,6 @@
 import json
 import requests
 import uuid
-import time
 
 response = requests.get("https://data.kcmo.org/resource/c46m-hv6s.json")
 contracts = json.loads(response.text)
