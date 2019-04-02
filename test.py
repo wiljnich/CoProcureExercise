@@ -23,7 +23,7 @@ for x in contracts:
         })
     del x['contract_amount'], x['contract_number'], x['department'], x['description'], x['effective_date'], x['supplier']
 
-with open('contracts.json', 'w') as outfile:
+with open('kcmo.json', 'w') as outfile:
         json.dump(contracts, outfile)
 
 for x in contracts:
